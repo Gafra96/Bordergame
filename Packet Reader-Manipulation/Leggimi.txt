@@ -1,0 +1,2 @@
+Consigliabile la versione 3.3.6.1 di AutoIT per relativi problemi di compatibilità delle librerie.
+CCInject --> credit Shadow992
